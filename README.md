@@ -4,4 +4,4 @@ Repositorio del Header de una landing page
 
 ## Proyectos
 
-[Página en bootstrap](https://Marcode18.github.io/Header/Header)
+[Página en bootstrap](https://marcode18.github.io/Header/Header)
